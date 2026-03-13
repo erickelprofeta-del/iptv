@@ -21,8 +21,6 @@ https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 http://190.61.43.115:45000/play/a044/index.m3u8
 #EXTINF:-1,TV Peru Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
-#EXTINF:-1,Canal l8 Catacaos
-https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1,A&E HD
 http://190.61.43.115:45000/play/a098/index.m3u8
 #EXTINF:-1,AMC HD
@@ -75,16 +73,8 @@ http://190.61.43.115:45000/play/a09a/index.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/lista de reproducción.m3u8
 #EXTINF:-1,Nex HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1,Rakuten TV Películas de acción
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/producción-LiveChannel-6069/master.m3u8
-#EXTINF:-1,Rakuten TV Películas de comedia
-https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/producción-LiveChannel-6180/master.m3u8
-#EXTINF:-1,Rakuten TV Películas dramáticas de 
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/producción-LiveChannel-6092/master.m3u8
-#EXTINF:-1,Rakuten TV Películas familiares   
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/producción-LiveChannel-6205/master.m3u8
-#EXTINF:-1,Rakuten TV Las mejores películas 
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/producción-LiveChannel-5983/master.m3u8
+#EXTINF:-1,Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1,Runtime 
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1,Usa TV
