@@ -106,81 +106,73 @@ http://190.61.43.115:45000/play/a09r/index.m3u8
 http://190.61.43.115:45000/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-id="pasiones.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Pasiones_TV_logo.png" group-title="Novelas",Pasiones HD
 http://190.61.43.115:45000/play/a09w/index.m3u8
-#EXTINF:-1 TV ciencia
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Discovery_Science_logo.svg" group-title="Documentales",Discovery Ciencia
 http://190.61.43.115:45000/play/a0bu/index.m3u8
-#EXTINF:-1 Discovery Theater HD
+#EXTINF:-1 tvg-id="discoverytheater.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Discovery_Theater_logo.png" group-title="Documentales",Discovery Theater
 http://190.61.43.115:45000/play/a07h/index.m3u8
-#EXTINF:-1 Discovery Turbo
+#EXTINF:-1 tvg-id="discoveryturbo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Discovery_Turbo_logo.svg" group-title="Documentales",Discovery Turbo
 http://190.61.43.115:45000/play/a040/index.m3u8
-#EXTINF:-1 Discovery World HD
+#EXTINF:-1 tvg-id="discoveryworld.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Discovery_World_logo.png" group-title="Documentales",Discovery World
 http://190.61.43.115:45000/play/a07q/index.m3u8
-#EXTINF:-1 HGTV
+#EXTINF:-1 tvg-id="hgtv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HGTV_logo_2013.svg" group-title="Entretenimiento",HGTV
 http://190.61.43.115:45000/play/a029/index.m3u8
-#EXTINF:-1 Historial 2 HD
+#EXTINF:-1 tvg-id="history2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/History_2_logo.png" group-title="Documentales",History 2
 http://190.61.43.115:45000/play/a084/index.m3u8
-#EXTINF:-1 History Channel HD
+#EXTINF:-1 tvg-id="history.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/History_Channel_logo.svg" group-title="Documentales",History Channel
 http://190.61.43.115:45000/play/a097/index.m3u8
-#EXTINF:-1 ID HD
+#EXTINF:-1 tvg-id="idhd.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Investigation_Discovery_logo.svg" group-title="Documentales",ID HD
 http://190.61.43.115:45000/play/a07d/index.m3u8
-#EXTINF:-1 Kanal D Drama HD
+#EXTINF:-1 tvg-id="kanald.drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Kanal_D_Logo_2019.png" group-title="Telenovelas",Kanal D Drama
 http://190.61.43.115:45000/play/a07v/index.m3u8
-#EXTINF:-1 BETHEL TV
+#EXTINF:-1 tvg-id="betheltv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Bethel_TV_logo.png" group-title="Cristiana",Bethel TV
 http://190.61.43.115:45000/play/a0bi/index.m3u8
-#EXTINF:-1 Enlace TV
+#EXTINF:-1 tvg-id="enlace.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Enlace_TV_logo.png" group-title="Cristiana",Enlace TV
 http://190.61.43.115:45000/play/a092/index.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="Canal ISB" tvg-logo="https://cdn.m3u.cl/logo/159_Canal_ISB.png", Canal ISB | CL
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1711" tvg-name="Alegria Cristiana" tvg-logo="https://cdn.m3u.cl/logo/1711_Alegria_Cristiana.png", Alegria Cristiana | CL
 https://vdochile.com:3182/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 LA MORADA TV
-http://190.61.43.115:45000/play/a0c9/index.m3u8
-#EXTINF:-1 EWTN TV
+#EXTINF:-1 tvg-id="ewtn.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/EWTN_logo.svg" group-title="Cristiana",EWTN TV
 http://190.61.43.115:45000/play/a091/index.m3u8
-#EXTINF:-1 Canal 30 TV BETHEL
+#EXTINF:-1 tvg-id="bethel30.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Bethel_TV_logo.png" group-title="Cristiana",Canal 30 Bethel
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
-#EXTINF:-1 Daystar TV Español
-https://live-mcl.cdn01.net/smarttv/64wj6m6d8/lista de reproducción.m3u8
-#EXTINF:-1 ULTRA Kids HD
-http://190.61.43.115:45000/play/a0cd/index.m3u8
-#EXTINF:-1 BITME
-http://190.61.43.115:45000/play/a0cl/index.m3u8
-#EXTINF:-1 Dios TV Kids
+#EXTINF:-1 tvg-id="diosteve.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Dios_Te_Ve_logo.png" group-title="Cristiana",Dios Te Ve
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 Discovery Kids HD
+#EXTINF:-1 tvg-id="discoverykids.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Discovery_Kids_logo_2019.png" group-title="Infantil",Discovery Kids
 http://190.61.43.115:45000/play/a0ac/index.m3u8
-#EXTINF:-1 Disney HD
+#EXTINF:-1 tvg-id="disneyhd.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Disney_Channel_logo_2014.svg" group-title="Infantil",Disney HD
 http://190.61.43.115:45000/play/a09l/index.m3u8
-#EXTINF:-1 Disney JR
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Disney_Junior_logo_2019.svg" group-title="Infantil",Disney Junior
 http://190.61.43.115:45000/play/a0b5/index.m3u8
-#EXTINF:-1 Nick HD
+#EXTINF:-1 tvg-id="nick.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Nickelodeon_2018_logo.svg" group-title="Infantil",Nick HD
 http://190.61.43.115:45000/play/a09j/index.m3u8
-#EXTINF:-1 ODATA Cartoonito
+#EXTINF:-1 tvg-id="cartoonito.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Cartoonito_2021_logo.svg" group-title="Infantil",Cartoonito
 http://190.61.43.115:45000/play/a08h/index.m3u8
-#EXTINF:-1 TV 13 
+#EXTINF:-1 tvg-id="13tvninos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/13TV_logo.png" group-title="Infantil",13 TV Niños
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 MTV HD
+#EXTINF:-1 tvg-id="mtv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/MTV_Logo_2010.svg" group-title="Música",MTV
 http://190.61.43.115:45000/play/a09p/index.m3u8
-#EXTINF:-1 Nat Geo HD
+#EXTINF:-1 tvg-id="natgeo.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/National_Geographic_Channel_logo.svg" group-title="Documentales",Nat Geo
 http://190.61.43.115:45000/play/a07p/index.m3u8
-#EXTINF:-1 Conecta 2 TV
+#EXTINF:-1 tvg-id="conecta2tv.pe" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703171584.jpg" group-title="Peru",Conecta2 TV
 https://live.obslivestream.com/conecta2/index.m3u8
 #EXTINF:-1 tvg-id="1188" tvg-name="Controversia TV" tvg-logo="https://cdn.m3u.cl/logo/1188_Controversia_TV.png", Controversia TV | PE
 https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL 
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Cartoon_Network_2010_logo.svg" group-title="Infantil",Cartoon Network
 http://190.61.43.115:45000/play/a01y/index.m3u8
-#EXTINF:-1 Cinecanal HD
+#EXTINF:-1 tvg-id="cinecanal.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Cinecanal_logo.png" group-title="Películas",Cinecanal
 http://190.61.43.115:45000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Tooncast_logo.png" group-title="Infantil",Tooncast
 http://190.61.43.115:45000/play/a03s/index.m3u8
-#EXTINF:-1 Clasicos Latinos
+#EXTINF:-1 tvg-id="latinaclasicos.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Latina_logo.png" group-title="Peru",Latina Clásicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1189" tvg-name="Telecolor TV" tvg-logo="https://cdn.m3u.cl/logo/1189_Telecolor_TV.png", Telecolor TV | PE
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1546" tvg-name="Tele Selva" tvg-logo="https://cdn.m3u.cl/logo/1546_Tele_Selva.png", Tele Selva | PE
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
-#EXTINF:-1 Top TV
+#EXTINF:-1 tvg-id="toptv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Top_TV_logo.png" group-title="General",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 TV UNO
+#EXTINF:-1 tvg-id="tvuno.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TV_Uno_Peru_logo.png" group-title="Peru",TV Uno
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-id="1094" tvg-name="Uranio TV" tvg-logo="https://cdn.m3u.cl/logo/1094_Uranio_TV.png", Uranio TV | PE
 https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
