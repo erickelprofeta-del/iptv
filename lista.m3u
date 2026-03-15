@@ -151,6 +151,10 @@ http://190.61.43.115:45000/play/a07v/index.m3u8
 http://190.61.43.115:45000/play/a0bi/index.m3u8
 #EXTINF:-1 Enlace TV
 http://190.61.43.115:45000/play/a092/index.m3u8
+#EXTINF:-1 tvg-id="159" tvg-name="Canal ISB" tvg-logo="https://cdn.m3u.cl/logo/159_Canal_ISB.png", Canal ISB | CL
+https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1711" tvg-name="Alegria Cristiana" tvg-logo="https://cdn.m3u.cl/logo/1711_Alegria_Cristiana.png", Alegria Cristiana | CL
+https://vdochile.com:3182/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 LA MORADA TV
 http://190.61.43.115:45000/play/a0c9/index.m3u8
 #EXTINF:-1 EWTN TV
